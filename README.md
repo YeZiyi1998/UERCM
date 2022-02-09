@@ -17,10 +17,11 @@ Please cite the paper if you use these datasets or codes.
 ```
 If you have any problem about this work or dataset, please contact with Ziyi Ye at Yeziyi1998@gmail.com or Yiqun Liu at yiqunliu@tsinghua.edu.cn.
 
-## Dataset
+## dataset
 In the user study, participants are recruited to perform several reading comprehension tasks. 
 Each trial includes a factoid question and the following sentence with graded relevance. 
 Under a controlled user study setup in the prevention of potentially confusing effects, EEG data is recorded during the reading process. 
+The dataset can be downloaded in https://cloud.tsinghua.edu.cn/d/4ede7ce124cc46f3b42e/.
 
 **raw_txt**:
 
